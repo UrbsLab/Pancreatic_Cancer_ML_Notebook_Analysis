@@ -1,0 +1,40 @@
+,metric,dataset1,dataset2,statistic,pvalue,sig,mean_dataset1,std_dataset1,mean_dataset2,std_dataset2
+0,Accuracy,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,19.5,0.011464,*,0.764598,0.026874,0.784025,0.012888
+1,Accuracy,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,1.0,0.000122,*,0.764598,0.026874,0.63247,0.048821
+2,Accuracy,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,0.0,9e-05,*,0.784025,0.012888,0.63247,0.048821
+3,Balanced Accuracy,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,32.0,0.092856,,0.679814,0.030038,0.692355,0.025058
+4,Balanced Accuracy,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,2.0,0.000165,*,0.679814,0.030038,0.558234,0.046823
+5,Balanced Accuracy,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,1.0,0.000122,*,0.692355,0.025058,0.558234,0.046823
+6,F1_Score,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,27.0,0.044426,*,0.427154,0.03995,0.44774,0.032054
+7,F1_Score,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,30.0,0.070233,,0.427154,0.03995,0.373204,0.092206
+8,F1_Score,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,23.0,0.022537,*,0.44774,0.032054,0.373204,0.092206
+9,Precision,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,23.0,0.022537,*,0.347112,0.038331,0.374162,0.025658
+10,Precision,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,15.5,0.005012,*,0.347112,0.038331,0.444271,0.087894
+11,Precision,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,25.0,0.031761,*,0.374162,0.025658,0.444271,0.087894
+12,Recall,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,46.0,0.394854,,0.55625,0.036917,0.55875,0.051724
+13,Recall,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,0.0,8.8e-05,*,0.55625,0.036917,0.335518,0.098078
+14,Recall,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,0.0,8.8e-05,*,0.55875,0.051724,0.335518,0.098078
+15,Specificity,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,19.0,0.01047,*,0.803378,0.025968,0.825959,0.014464
+16,Specificity,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,32.0,0.092856,,0.803378,0.025968,0.780949,0.079663
+17,Specificity,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,22.0,0.018782,*,0.825959,0.014464,0.780949,0.079663
+18,TN,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,19.0,0.01047,*,345.3,11.421714,355.0,6.394442
+19,TN,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,0.0,9.1e-05,*,345.3,11.421714,51.0,6.733003
+20,TN,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,0.0,9.1e-05,*,355.0,6.394442,51.0,6.733003
+21,TP,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,46.0,0.394854,,44.5,2.953341,44.7,4.137901
+22,TP,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,0.0,8.3e-05,*,44.5,2.953341,11.0,3.299832
+23,TP,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,0.0,8.3e-05,*,44.7,4.137901,11.0,3.299832
+24,FN,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,46.0,0.394854,,35.5,2.953341,35.3,4.137901
+25,FN,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,0.0,8.6e-05,*,35.5,2.953341,21.8,3.645393
+26,FN,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,0.0,8.6e-05,*,35.3,4.137901,21.8,3.645393
+27,FP,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,19.0,0.010398,*,84.5,11.078006,74.8,6.178817
+28,FP,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,0.0,8.9e-05,*,84.5,11.078006,14.2,5.116422
+29,FP,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,0.0,8.8e-05,*,74.8,6.178817,14.2,5.116422
+30,ROC_AUC,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,22.0,0.018818,*,0.714628,0.035161,0.745943,0.02652
+31,ROC_AUC,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,2.0,0.000165,*,0.714628,0.035161,0.570839,0.058618
+32,ROC_AUC,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,0.0,9.1e-05,*,0.745943,0.02652,0.570839,0.058618
+33,PRC_AUC,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,15.0,0.004554,*,0.354484,0.035909,0.411426,0.028673
+34,PRC_AUC,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,15.0,0.004554,*,0.354484,0.035909,0.435898,0.076732
+35,PRC_AUC,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,49.0,0.484925,,0.411426,0.028673,0.435898,0.076732
+36,PRC_APS,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,14.0,0.003642,*,0.360611,0.034878,0.417225,0.027585
+37,PRC_APS,EpiOnly_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,13.0,0.002898,*,0.360611,0.034878,0.449703,0.073067
+38,PRC_APS,Epi_DietAdj_20180710_clean_scale_imp_CV_S_FS,Epi_DietAdj_Matched_20180710_clean_scale_imp_CV_M_FS,45.0,0.366865,,0.417225,0.027585,0.449703,0.073067
